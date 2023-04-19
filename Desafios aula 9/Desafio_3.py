@@ -27,6 +27,7 @@ elif escolha_jogador == "tesoura" and escolha_pc == "papel":
 elif escolha_jogador == "papel" and escolha_pc == "tesoura":
     print(f"O computador escolheu {escolha_pc} e voce escolheu {escolha_jogador}\n")
     print("O computador venceu!")
+
 #while escolha_jogador != "pedra""papel""tesoura":
    # print("essa opção não exite tente dnv")
    # escolha_jogador = input("Escolha pedra, papel ou tesoura:\n")
